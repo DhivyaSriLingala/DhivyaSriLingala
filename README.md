@@ -1,8 +1,4 @@
 
-
-
-
-
 # <div align="center"> Dhivya Sri Lingala </div>
 
 <div align="center">
@@ -10,8 +6,10 @@
 </div>
 
 
-
+<div align="center">
+  
 ### 🎓 Professional Highlights
+</div>
 
 ---
 
@@ -21,8 +19,11 @@
 - 🎯 Specialized in **LLMs, Generative AI, RAG Pipelines, Full-Stack ML Deployment**.
 - 📍 Based in *Gainesville, Florida.**
 
+<div align="center">
 
 ### 🛠 Tech Stack
+
+</div>
 
 ---
 
@@ -73,8 +74,11 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
+<div align="center">
 
 ### 💼 Work Experience
+
+</div>
 
 ---
 
@@ -84,9 +88,12 @@
 | Software Developer Intern | Areksoft Technologies Pvt. Ltd | Hyderabad, India | Jul 2023 - Nov 2023 |
 | AI/ML Apprenticeship | Microsoft | Remote, India | Mar 2022 - Jun 2022 |
 
+<div align="center">
 
 
 ### 🚀 Featured Projects
+
+</div>
 
 ---
 
@@ -105,18 +112,27 @@
   
 ### 📊 GitHub Stats
 
+
 ---
 
   <!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhivyaSriLingala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=004E89&text_color=ffffff" />
 -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=react&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=004E89&currStreakLabel=FF6B35" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=react&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=004E89&currStreakLabel=FF6B35" />
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSriLingala&theme=github-dark" />
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaSriLingala&theme=github_dark)
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSriLingala&bg_color=0D1117&color=FF6B35&line=004E89&point=FF6B35&area=true&hide_border=true" width="80%"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaSriLingala&theme=github_dark" width=80% />
+ 
 
   
 </div>
@@ -124,7 +140,12 @@
 
 
 
+<div align="center">
+
 ### 🏆 Achievements
+
+</div>
+
 ---
 - 🎓 **CGPA: 3.98/4.0** (Bachelor's) & **3.85/4.0** (Master's).
 - 🏆 **Microsoft Engage 2022** (2022).
