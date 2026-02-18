@@ -1,3 +1,8 @@
+
+
+
+
+
 # <div align="center"> Dhivya Sri Lingala </div>
 
 <div align="center">
@@ -106,11 +111,14 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhivyaSriLingala&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=004E89&text_color=ffffff" />
 -->
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=react&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=004E89&currStreakLabel=FF6B35" />
-
 </div>
 
 <div align="center">
-<img width="60%" src="https://gitblend.com/api/contributions?username=DhivyaSriLingala" />
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSriLingala&theme=github-dark" />
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaSriLingala&theme=github_dark)
+
+  
 </div>
 
 
