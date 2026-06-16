@@ -1,7 +1,7 @@
 # <div align="center"> Dhivya Sri Lingala </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=df0707&center=true&vCenter=true&width=500&lines=AI+Engineer;ML+Engineer;Computer+Vision+Expert;Software+Engineer;Data+Engineer;Data+Analyst;Agentic+AI+Engineer;GenAI+Engineer;LLM+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=df0707&center=true&vCenter=true&width=500&lines=AI+Engineer;ML+Engineer;GenAI+Engineer;Engineer;Data+Analyst;Agentic+AI+Engineer;Prompt+Engineer;LLM+Engineer" alt="Typing Animation" />
 </div>
 
 
