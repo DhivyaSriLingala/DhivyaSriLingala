@@ -16,7 +16,7 @@
 - 💼 Built Python web-scraping pipelines for **20+ dynamic websites**, improving CRM data accuracy by **15%**.
 - 💡 Designed and deployed scalable RESTful APIs using Python, Flask, and PostgreSQL.
 - 🎯 Specialized in **LLMs, Generative AI, RAG Pipelines, Full-Stack ML Deployment**.
-- 📍 Based in *Gainesville, Florida.**
+- 📍 Based in *Raleigh, North Carolina.**
 
 <div align="center">
 
