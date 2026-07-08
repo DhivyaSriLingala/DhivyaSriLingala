@@ -224,7 +224,7 @@
 </div>
 
 ---
-- 🎓 **CGPA: 3.98/4.0** (Bachelor's) & **3.85/4.0** (Master's).
+- 🎓 **CGPA: 3.98/4.0** (Bachelor's) & **3.86/4.0** (Master's).
 - 🏆 **Microsoft Engage 2022** (2022).
 - 📈 Published research work in adaptive AI learning platforms.
 - 💡 Leading industry-sponsored AI project with real-world deployment.
