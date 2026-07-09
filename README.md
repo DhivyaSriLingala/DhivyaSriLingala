@@ -5,7 +5,6 @@
 ### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
 
 ### 🎓 Professional Highlights
-</div>
 
 ---
 
