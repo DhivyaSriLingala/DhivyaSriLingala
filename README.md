@@ -1,5 +1,7 @@
 # <div align="center"> Dhivya Sri Lingala </div>
 
+<div align="center">
+  
 ### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
 
 ### 🎓 Professional Highlights
