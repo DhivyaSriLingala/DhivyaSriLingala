@@ -3,19 +3,69 @@
 <div align="center">
   
 ### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
-
-### 🎓 Professional Highlights
+</div>
 
 ---
 
-- 🚀 Designed end-to-end ML pipeline achieving **~82% accuracy** for customer segmentation and demand forecasting.
-- 💼 Built Python web-scraping pipelines for **20+ dynamic websites**, improving CRM data accuracy by **15%**.
-- 💡 Designed and deployed scalable RESTful APIs using Python, Flask, and PostgreSQL.
-- 🎯 Specialized in **LLMs, Generative AI, RAG Pipelines, Full-Stack ML Deployment**.
-- 📍 Based in *Gainesville, Florida.**
-- 📍 Based in *Raleigh, North Carolina.**
+# 👋 About Me
 
-<div align="center">
+I'm an **AI Engineer** focused on building **production-grade AI systems** that combine **Machine Learning, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), FastAPI, and cloud deployment**.
+
+My work spans the complete AI lifecycle—from data pipelines and model development to evaluation, APIs, deployment, monitoring, and production engineering.
+
+### 🎯 Target Roles
+
+**Primary**
+- AI Engineer
+- Applied AI Engineer
+- LLM Engineer
+- Agentic AI Engineer
+- Generative AI Engineer
+
+**Backup**
+- Machine Learning Engineer
+- Applied ML Engineer
+- MLOps Engineer
+
+---
+# 🚀 What I Build
+
+- 🤖 Production AI applications using LLMs, RAG, and AI Agents
+- 📈 End-to-end Machine Learning systems
+- ⚡ FastAPI backend services
+- 🔍 Semantic Search & Vector Databases
+- 🐳 Dockerized AI deployments
+- ☁️ Cloud-native AI applications
+- 📊 MLOps pipelines with MLflow
+
+---
+
+# 💼 Experience
+
+| Role | Organization |
+|------|--------------|
+| AI Engineer | Stackyon Inc. |
+| AI Software Engineer | LightSeeker Solutions |
+| Graduate Research Assistant | University of Florida |
+| Software Developer Intern | Areksoft Technologies |
+| Microsoft Engage AI/ML Mentee | Microsoft |
+
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Highlights |
+|---------|------------|
+| 🏠 House Price Intelligence System | XGBoost • Semantic Search • RAG • FastAPI • Docker • MLflow |
+| 🤖 Job Fit Analysis | LlamaIndex • ReAct Agent • Router Query Engine • ATS Analysis |
+| 📚 Unofficial CS Guide | RAG Assistant with ChromaDB & Llama |
+| 💰 SmartFin AI | AI-powered financial intelligence platform |
+| 💡 L.A.A.R.K | Enterprise lighting asset management with predictive maintenance |
+| 😊 EmoWise | Emotion-aware recommendation system |
+
+---
+
 
 ### 🛠 Tech Stack
 
@@ -144,41 +194,8 @@
 
 
 
-<div align="center">
-
-### 💼 Work Experience
-
-</div>
-
----
-
-| **Role** | **Company** | **Location** | **Duration** |
-|----------|-------------|--------------|--------------|
-| Graduate Research Assistant | University of Florida  | Gainesville, FL | Aug 2025 - Present |
-| Software Developer Intern | Areksoft Technologies Pvt. Ltd | Hyderabad, India | Jul 2023 - Nov 2023 |
-| AI/ML Apprenticeship | Microsoft | Remote, India | Mar 2022 - Jun 2022 |
-
-<div align="center">
 
 
-### 🚀 Featured Projects
-
-</div>
-
----
-
-
-| **Project Name** | **Description** | **Tech Stack** | **GitHub Link** |
-|------------------|-----------------|----------------|-----------------|
-| ***L.A.A.R.K*** | *Enterprise Intelligent Lighting Platform with BIM Integration & Predictive Maintenance* | `Python` `TensorFlow` `React` `TypeScript` `Supabase` | 🔒 *NDA Project* |
-| ***SmartFin AI*** | *AI-Powered Gold Loan Management System* | `Python` `FastAPI` `Streamlit` `Scikit-learn` `PostgreSQL` | [View Project](https://github.com/DhivyaSriLingala) |
-| ***Emowise*** | *AI-Powered Emotional Intelligence Recommendation System* | `Python` `TensorFlow` `OpenCV` `NLP` | [View Project](https://github.com/DhivyaSriLingala) |
-| ***AI Art Generator*** | *Text-to-Image Conversion System* | `MERN Stack` `TensorFlow` `JavaScript` | [View Project](https://github.com/DhivyaSriLingala) |
-
-
-
-
-<div align="center">
 
 ### 📊 GitHub Stats
 
