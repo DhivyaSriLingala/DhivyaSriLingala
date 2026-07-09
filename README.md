@@ -1,12 +1,12 @@
 # <div align="center">Dhivya Sri Lingala</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=df0707&center=true&vCenter=true&width=650&lines=AI+Engineer;Applied+AI+Engineer;LLM+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer;RAG+Systems+Builder;Production+AI+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=1000&color=DF0707&center=true&vCenter=true&width=700&lines=AI+Engineer;Applied+AI+Engineer;LLM+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer;Building+Production+AI+Systems" />
 </div>
 
 <div align="center">
 
-### AI Engineer | LLMs | Agentic AI | RAG | Machine Learning Systems | Production Deployment
+### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
 
 </div>
 
@@ -14,29 +14,36 @@
 
 ## 👋 About Me
 
-I am an AI Engineer focused on building production-grade AI systems that combine machine learning, LLMs, RAG pipelines, agentic workflows, APIs, and deployment infrastructure.
+I'm an AI Engineer passionate about building production-grade intelligent systems that combine Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and scalable backend engineering.
 
-My work spans end-to-end AI product development, including predictive modeling, semantic search, retrieval-augmented generation, multi-agent orchestration, FastAPI services, vector databases, cloud deployment, and ML evaluation.
+I enjoy building AI products from end to end—from model development and experimentation to deployment, monitoring, APIs, and cloud infrastructure.
 
-I am currently targeting roles in:
+Currently seeking opportunities as:
 
-* **Primary:** AI Engineer, Applied AI Engineer, LLM Engineer, Agentic AI Engineer, Generative AI Engineer
-* **Secondary:** Machine Learning Engineer, Applied ML Engineer, MLOps Engineer
+🚀 AI Engineer
+🚀 Applied AI Engineer
+🚀 LLM Engineer
+🚀 Agentic AI Engineer
+🚀 Generative AI Engineer
+🚀 Machine Learning Engineer
+🚀 Applied ML Engineer
+🚀 MLOps Engineer
+
 
 ---
 
 ## 🚀 Professional Highlights
 
-* Built production-style AI systems combining **LLMs, RAG, agents, APIs, and ML deployment**.
-* Developed healthcare AI agent workflows using **LangGraph, FastAPI, vector databases, and HITL escalation**.
-* Built RAG applications using **LlamaIndex, LangChain, ChromaDB, Pinecone, and Groq/Llama models**.
-* Designed ML pipelines for prediction, recommendation, classification, and intelligent decision support.
-* Deployed AI/ML applications using **FastAPI, Docker, Streamlit, Vercel, Render, Supabase, and cloud services**.
-* Strong foundation in **Python, PyTorch, TensorFlow, Scikit-learn, SQL, REST APIs, and MLOps tools**.
+🤖 Built production-ready AI applications using **LLMs, RAG, FastAPI, Docker, MLflow, and Vector Databases**
+🧠 Developed machine learning systems for prediction, recommendation, semantic search, and intelligent automation
+🔍 Built Retrieval-Augmented Generation (RAG) applications using **LangChain, LlamaIndex, Pinecone, ChromaDB, and FAISS**
+⚡ Developed scalable REST APIs using **FastAPI, Flask, and PostgreSQL**
+📊 Built end-to-end ML pipelines using **PyTorch, TensorFlow, XGBoost, Scikit-learn, MLflow**
+
+☁️ Experience deploying AI applications using Docker, AWS, Azure, Vercel, Render, and Supabase
 
 📍 Based in Raleigh, North Carolina
 🎓 M.S. Artificial Intelligence Systems, University of Florida
-💼 Open to AI Engineer, Applied AI Engineer, LLM Engineer, and Machine Learning Engineer roles
 
 
 ### 🛠 Tech Stack
@@ -176,7 +183,9 @@ I am currently targeting roles in:
 
 | **Role** | **Company** | **Location** | **Duration** |
 |----------|-------------|--------------|--------------|
-| Graduate Research Assistant | University of Florida  | Gainesville, FL | Aug 2025 - Present |
+| AI Engineer | Stackyon Inc | Tamps, FL | May 2026 - Present |
+| AI Software Engineer | Liteseeker Solutions | Gainesville, FL | August 2025 - May 2026 |
+| AI Research Assistant | University of Florida  | Gainesville, FL | Aug 2024 - May 2025 |
 | Software Developer Intern | Areksoft Technologies Pvt. Ltd | Hyderabad, India | Jul 2023 - Nov 2023 |
 | AI/ML Apprenticeship | Microsoft | Remote, India | Mar 2022 - Jun 2022 |
 
@@ -247,6 +256,7 @@ I am currently targeting roles in:
 - 🏆 **Microsoft Engage 2022** (2022).
 - 📈 Published research work in adaptive AI learning platforms.
 - 💡 Leading industry-sponsored AI project with real-world deployment.
+- 🚀 Built production-ready AI applications using LLMs, RAG, ML, and cloud deployment
 
 
 
