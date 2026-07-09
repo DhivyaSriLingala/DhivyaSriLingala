@@ -172,7 +172,11 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 ---
 
+![](https://github-readme-stats.vercel.app/api?username=DhivyaSriLingala&show_icons=true&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaSriLingala&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=DhivyaSriLingala&theme=tokyonight)
 
 
 
