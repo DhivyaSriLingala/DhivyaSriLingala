@@ -1,24 +1,43 @@
-# <div align="center"> Dhivya Sri Lingala </div>
+# <div align="center">Dhivya Sri Lingala</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=df0707&center=true&vCenter=true&width=500&lines=AI+Engineer;ML+Engineer;GenAI+Engineer;Engineer;Data+Analyst;Agentic+AI+Engineer;Prompt+Engineer;LLM+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=df0707&center=true&vCenter=true&width=650&lines=AI+Engineer;Applied+AI+Engineer;LLM+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer;RAG+Systems+Builder;Production+AI+Developer" alt="Typing Animation" />
 </div>
 
-
 <div align="center">
-  
-### 🎓 Professional Highlights
+
+### AI Engineer | LLMs | Agentic AI | RAG | Machine Learning Systems | Production Deployment
+
 </div>
 
 ---
 
-- 🚀 Designed end-to-end ML pipeline achieving **~82% accuracy** for customer segmentation and demand forecasting.
-- 💼 Built Python web-scraping pipelines for **20+ dynamic websites**, improving CRM data accuracy by **15%**.
-- 💡 Designed and deployed scalable RESTful APIs using Python, Flask, and PostgreSQL.
-- 🎯 Specialized in **LLMs, Generative AI, RAG Pipelines, Full-Stack ML Deployment**.
-- 📍 Based in *Raleigh, North Carolina.**
+## 👋 About Me
 
-<div align="center">
+I am an AI Engineer focused on building production-grade AI systems that combine machine learning, LLMs, RAG pipelines, agentic workflows, APIs, and deployment infrastructure.
+
+My work spans end-to-end AI product development, including predictive modeling, semantic search, retrieval-augmented generation, multi-agent orchestration, FastAPI services, vector databases, cloud deployment, and ML evaluation.
+
+I am currently targeting roles in:
+
+* **Primary:** AI Engineer, Applied AI Engineer, LLM Engineer, Agentic AI Engineer, Generative AI Engineer
+* **Backup:** Machine Learning Engineer, Applied ML Engineer, MLOps Engineer
+
+---
+
+## 🚀 Professional Highlights
+
+* Built production-style AI systems combining **LLMs, RAG, agents, APIs, and ML deployment**.
+* Developed healthcare AI agent workflows using **LangGraph, FastAPI, vector databases, and HITL escalation**.
+* Built RAG applications using **LlamaIndex, LangChain, ChromaDB, Pinecone, and Groq/Llama models**.
+* Designed ML pipelines for prediction, recommendation, classification, and intelligent decision support.
+* Deployed AI/ML applications using **FastAPI, Docker, Streamlit, Vercel, Render, Supabase, and cloud services**.
+* Strong foundation in **Python, PyTorch, TensorFlow, Scikit-learn, SQL, REST APIs, and MLOps tools**.
+
+📍 Based in Raleigh, North Carolina
+🎓 M.S. Artificial Intelligence Systems, University of Florida
+💼 Open to AI Engineer, Applied AI Engineer, LLM Engineer, and Machine Learning Engineer roles
+
 
 ### 🛠 Tech Stack
 
