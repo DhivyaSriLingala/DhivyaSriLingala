@@ -80,7 +80,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 <td>
 
 <!-- COLUMN 1 -->
-##### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -92,7 +92,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 
 
-##### AI/ML
+**AI/ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -104,7 +104,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 
 
-##### LLM Engineering
+**LLM Engineering**
 
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -117,7 +117,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 
 
-##### Vector Databases
+**Vector Databases**
 
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00A3FF?style=for-the-badge&logoColor=white)
@@ -125,7 +125,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 
 
-##### Backend
+**Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -135,7 +135,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 
 
-##### MLOps & Cloud
+**MLOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -147,7 +147,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 
 
-##### Databases
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
