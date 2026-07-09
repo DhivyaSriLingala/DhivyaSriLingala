@@ -170,16 +170,6 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 ### 📊 GitHub Stats
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=DhivyaSriLingala&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaSriLingala&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=DhivyaSriLingala&theme=tokyonight)
-
-
-
 ![](https://github-readme-stats.vercel.app/api?username=DhivyaSriLingala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=DhivyaSriLingala&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaSriLingala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -197,9 +187,9 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 <div align="center">
 
+
 ### 🔝 Top Contributed Repo
 
----
 
 ![](https://github-contributor-stats.vercel.app/api?username=DhivyaSriLingala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
