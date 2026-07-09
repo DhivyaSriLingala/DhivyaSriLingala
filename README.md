@@ -1,50 +1,24 @@
-# <div align="center">Dhivya Sri Lingala</div>
+# <div align="center"> Dhivya Sri Lingala </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=1000&color=DF0707&center=true&vCenter=true&width=700&lines=AI+Engineer;Applied+AI+Engineer;LLM+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer;Building+Production+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=df0707&center=true&vCenter=true&width=500&lines=AI+Engineer;ML+Engineer;GenAI+Engineer;Engineer;Data+Analyst;Agentic+AI+Engineer;Prompt+Engineer;LLM+Engineer" alt="Typing Animation" />
 </div>
 
+
 <div align="center">
-
-### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
-
+  
+### 🎓 Professional Highlights
 </div>
 
 ---
 
-## 👋 About Me
+- 🚀 Designed end-to-end ML pipeline achieving **~82% accuracy** for customer segmentation and demand forecasting.
+- 💼 Built Python web-scraping pipelines for **20+ dynamic websites**, improving CRM data accuracy by **15%**.
+- 💡 Designed and deployed scalable RESTful APIs using Python, Flask, and PostgreSQL.
+- 🎯 Specialized in **LLMs, Generative AI, RAG Pipelines, Full-Stack ML Deployment**.
+- 📍 Based in *Raleigh, North Carolina.**
 
-I'm an AI Engineer passionate about building production-grade intelligent systems that combine Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, and scalable backend engineering.
-
-I enjoy building AI products from end to end—from model development and experimentation to deployment, monitoring, APIs, and cloud infrastructure.
-
-Currently seeking opportunities as:
-
-🚀 AI Engineer
-🚀 Applied AI Engineer
-🚀 LLM Engineer
-🚀 Agentic AI Engineer
-🚀 Generative AI Engineer
-🚀 Machine Learning Engineer
-🚀 Applied ML Engineer
-🚀 MLOps Engineer
-
-
----
-
-## 🚀 Professional Highlights
-
-🤖 Built production-ready AI applications using **LLMs, RAG, FastAPI, Docker, MLflow, and Vector Databases**
-🧠 Developed machine learning systems for prediction, recommendation, semantic search, and intelligent automation
-🔍 Built Retrieval-Augmented Generation (RAG) applications using **LangChain, LlamaIndex, Pinecone, ChromaDB, and FAISS**
-⚡ Developed scalable REST APIs using **FastAPI, Flask, and PostgreSQL**
-📊 Built end-to-end ML pipelines using **PyTorch, TensorFlow, XGBoost, Scikit-learn, MLflow**
-
-☁️ Experience deploying AI applications using Docker, AWS, Azure, Vercel, Render, and Supabase
-
-📍 Based in Raleigh, North Carolina
-🎓 M.S. Artificial Intelligence Systems, University of Florida
-
+<div align="center">
 
 ### 🛠 Tech Stack
 
@@ -183,9 +157,7 @@ Currently seeking opportunities as:
 
 | **Role** | **Company** | **Location** | **Duration** |
 |----------|-------------|--------------|--------------|
-| AI Engineer | Stackyon Inc | Tamps, FL | May 2026 - Present |
-| AI Software Engineer | Liteseeker Solutions | Gainesville, FL | August 2025 - May 2026 |
-| AI Research Assistant | University of Florida  | Gainesville, FL | Aug 2024 - May 2025 |
+| Graduate Research Assistant | University of Florida  | Gainesville, FL | Aug 2025 - Present |
 | Software Developer Intern | Areksoft Technologies Pvt. Ltd | Hyderabad, India | Jul 2023 - Nov 2023 |
 | AI/ML Apprenticeship | Microsoft | Remote, India | Mar 2022 - Jun 2022 |
 
@@ -256,7 +228,6 @@ Currently seeking opportunities as:
 - 🏆 **Microsoft Engage 2022** (2022).
 - 📈 Published research work in adaptive AI learning platforms.
 - 💡 Leading industry-sponsored AI project with real-world deployment.
-- 🚀 Built production-ready AI applications using LLMs, RAG, ML, and cloud deployment
 
 
 
@@ -273,5 +244,4 @@ Currently seeking opportunities as:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DhivyaSriLingala&color=blueviolet&style=flat-square)
 </div>
-
 
