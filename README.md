@@ -46,8 +46,8 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 |------|--------------|
 | AI Engineer | Stackyon Inc. |
 | AI Software Engineer | LightSeeker Solutions |
-| Graduate Research Assistant | University of Florida |
-| Software Developer Intern | Areksoft Technologies |
+| AI Research Assistant | University of Florida |
+| AI Engineer Intern | Areksoft Technologies |
 | Microsoft Engage AI/ML Mentee | Microsoft |
 
 
@@ -55,8 +55,8 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 # 🚀 Featured Projects
 
-| Project | Highlights |
-|---------|------------|
+| Project | Highlights | Link |
+|---------|------------|------|
 | 🏠 House Price Intelligence System | XGBoost • Semantic Search • RAG • FastAPI • Docker • MLflow |
 | 🤖 Job Fit Analysis | LlamaIndex • ReAct Agent • Router Query Engine • ATS Analysis |
 | 📚 Unofficial CS Guide | RAG Assistant with ChromaDB & Llama |
