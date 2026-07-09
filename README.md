@@ -21,7 +21,7 @@ My work spans end-to-end AI product development, including predictive modeling, 
 I am currently targeting roles in:
 
 * **Primary:** AI Engineer, Applied AI Engineer, LLM Engineer, Agentic AI Engineer, Generative AI Engineer
-* **Backup:** Machine Learning Engineer, Applied ML Engineer, MLOps Engineer
+* **Secondary:** Machine Learning Engineer, Applied ML Engineer, MLOps Engineer
 
 ---
 
