@@ -15,14 +15,11 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 ### 🎯 Target Roles
 
-**Primary**
 - AI Engineer
 - Applied AI Engineer
 - LLM Engineer
 - Agentic AI Engineer
 - Generative AI Engineer
-
-**Backup**
 - Machine Learning Engineer
 - Applied ML Engineer
 - MLOps Engineer
