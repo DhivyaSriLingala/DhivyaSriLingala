@@ -185,15 +185,7 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 <div align="center">
 
 
-### 🔝 Top Contributed Repo
 
-
-![](https://github-contributor-stats.vercel.app/api?username=DhivyaSriLingala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
-
-<div align="center">
 
 ###  GitHub Metrics
 
