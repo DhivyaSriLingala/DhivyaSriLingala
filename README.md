@@ -189,6 +189,12 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 
 <div align="center">
 
+### GitHub Contribution Graph
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/DhivyaSriLingala" alt="GitHub Contributions Chart" />
+</p>
 
 
 
