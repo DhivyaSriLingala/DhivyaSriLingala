@@ -231,5 +231,5 @@ My work spans the complete AI lifecycle—from data pipelines and model developm
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dhivya.sri.lingala_/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhivya-sri-lingala.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DhivyaSriLingala&color=blueviolet&style=flat-square)
+
 </div>
