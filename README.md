@@ -5,10 +5,7 @@
 ### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
 </div>
 
-<p align="center">
-  <a href="https://github.com/DhivyaSriLingala"><img src="https://img.shields.io/github/followers/DhivyaSriLingala?label=Followers&style=for-the-badge" /></a>
-  <a href="https://github.com/DhivyaSriLingala"><img src="https://komarev.com/ghpvc/?username=DhivyaSriLingala&style=for-the-badge&color=blue" /></a>
-</p>
+
 
 
 ---
