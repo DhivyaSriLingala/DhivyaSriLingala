@@ -1,42 +1,126 @@
-# <div align="center"> Dhivya Sri Lingala </div>
-
 <div align="center">
-  
-### AI Engineer • LLMs • Agentic AI • RAG • Machine Learning • MLOps
-</div>
 
+# Dhivya Sri Lingala
 
+### AI Engineer • Generative AI • Agentic AI • Machine Learning • Software Engineering
+
+Building production-ready AI systems, intelligent applications, scalable APIs, and cloud-native software.
+
+<br>
 
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm an **AI Engineer** focused on building **production-grade AI systems** that combine **Machine Learning, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), FastAPI, and cloud deployment**.
+I am an **AI and Software Engineer** focused on building production-grade systems that combine **Machine Learning, Large Language Models, Agentic AI, Retrieval-Augmented Generation, backend engineering, and cloud deployment**.
 
-My work spans the complete AI lifecycle from data pipelines and model development to evaluation, APIs, deployment, monitoring, and production engineering.
+My experience covers the complete development lifecycle:
 
-### 🎯 Target Roles
+- Designing AI and Machine Learning solutions
+- Building RAG pipelines, semantic search, and AI agents
+- Developing scalable backend services and REST APIs
+- Evaluating LLM quality, hallucinations, and model performance
+- Deploying applications using Docker, Kubernetes, AWS, and CI/CD
+- Monitoring and improving production reliability, latency, and data quality
+
+I completed my **M.S. in Artificial Intelligence Systems at the University of Florida** and currently build production healthcare AI systems at **Stackyon Inc.**
+
+
+---
+
+## 🎯 Open to Opportunities
+
+I am actively exploring full-time roles including:
 
 - AI Engineer
+- Generative AI Engineer
 - Applied AI Engineer
+- Machine Learning Engineer
 - LLM Engineer
 - Agentic AI Engineer
-- Generative AI Engineer
-- Machine Learning Engineer
-- Applied ML Engineer
 - MLOps Engineer
+- Software Engineer
+- Backend Engineer
+- AI Platform Engineer
+
+---
+## 💼 Professional Experience
+
+| Role | Organization | Focus |
+|---|---|---|
+| Full Stack AI Engineer | Stackyon Inc. | Healthcare AI agents, RAG, FastAPI, event-driven systems, cloud deployment |
+| AI Software Engineer | Lightseeker Solutions | Predictive maintenance, ML pipelines, full-stack development |
+| Gen AI Evaluation Analyst | CATIA Lab, University of Florida | LLM evaluation, RAG, knowledge graphs, adaptive AI systems |
+| AI Engineer | Areksoft Technologies | REST APIs, data pipelines, PostgreSQL, backend automation |
+| AI/ML Apprentice | Microsoft Engage | Machine Learning, clustering, classification, analytics |
 
 ---
 # 🚀 What I Build
 
-- 🤖 Production AI applications using LLMs, RAG, and AI Agents
-- 📈 End-to-end Machine Learning systems
-- ⚡ FastAPI backend services
-- 🔍 Semantic Search & Vector Databases
-- 🐳 Dockerized AI deployments
-- ☁️ Cloud-native AI applications
-- 📊 MLOps pipelines with MLflow
+
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🤖 Generative AI
+
+- Retrieval-Augmented Generation
+- Agentic AI workflows
+- ReAct and Plan-Execute agents
+- Semantic and multimodal retrieval
+- LLM evaluation frameworks
+- Human-in-the-loop systems
+- Knowledge graphs
+- Prompt engineering
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+- Classification and regression
+- Predictive maintenance
+- Recommendation systems
+- NLP and Computer Vision
+- Feature engineering
+- Model evaluation
+- Hyperparameter optimization
+- Experiment tracking
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+- FastAPI and Flask services
+- REST APIs and microservices
+- Event-driven integrations
+- Real-time backend systems
+- Full-stack applications
+- SQL and relational databases
+- Distributed systems
+- Automated testing
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ MLOps and Cloud
+
+- Dockerized deployments
+- Kubernetes orchestration
+- AWS and Azure
+- CI/CD pipelines
+- MLflow experiment tracking
+- Model serving
+- Production monitoring
+- Cloud-native applications
+
+</td>
+</tr>
+</table>
 
 ---
 
