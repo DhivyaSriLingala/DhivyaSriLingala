@@ -311,19 +311,21 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 ![](https://nirzak-streak-stats.vercel.app/?user=DhivyaSriLingala&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaSriLingala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSriLingala&bg_color=0D1117&color=FF6B35&line=004E89&point=FF6B35&area=true&hide_border=true" width="100%"/>
 
 
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaSriLingala&theme=github_dark" width="100%" />
 
-
+<br>
 
 
   <img src="https://ghchart.rshah.org/DhivyaSriLingala" alt="GitHub Contributions Chart" width="100%"/>
 
 
-
+<br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=github-dark&hide_border=true" width="100%" />
 
@@ -331,11 +333,11 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 
 
 
-
-<div align="center">
+---
 
 ### 📫 Connect With Me
----
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-sri-lingala/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhivyaSriLingala)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lingaladhivyasri24@gmail.com)
