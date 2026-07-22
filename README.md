@@ -123,6 +123,190 @@ I am actively exploring full-time roles including:
 
 ---
 
+# ⭐ Featured Projects
+
+---
+
+# 🤖 Generative AI
+
+## 🤖 Job Fit Analysis
+
+> **An AI-powered resume intelligence platform that leverages Agentic AI, Retrieval-Augmented Generation (RAG), and semantic search to evaluate resumes against job descriptions and provide explainable career recommendations.**
+
+### 🚀 Highlights
+
+- 🤖 ReAct AI Agent for multi-step reasoning
+- 📄 ATS Resume Analysis & Skill Gap Detection
+- 🔍 Semantic Search with LlamaIndex
+- 🧠 Router Query Engine & Multimodal Retrieval
+- ⚡ FastAPI backend with React frontend
+- ☁️ Deployed on Render & Vercel
+
+**Tech Stack**
+
+`Python` `LlamaIndex` `FastAPI` `React`
+`Groq` `RAG` `ReAct` `Vector Search`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel">
+</a>
+</p>
+
+---
+
+## 📚 Unofficial CS Guide
+
+> **A Retrieval-Augmented Generation assistant that enables students to ask natural language questions and receive grounded answers from curated computer science learning resources.**
+
+### 🚀 Highlights
+
+- 📖 RAG-powered educational assistant
+- 🔍 Semantic document retrieval
+- 🧠 ChromaDB vector database
+- 💬 Natural language question answering
+- ⚡ Interactive Gradio interface
+
+**Tech Stack**
+
+`Python` `RAG` `ChromaDB`
+`Sentence Transformers` `Llama 3.3`
+`Gradio`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+# 📈 Machine Learning
+
+## 🏠 House Price Intelligence System
+
+> **A production-grade Machine Learning platform combining price prediction, semantic search, Retrieval-Augmented Generation, REST APIs, Docker, and MLflow into a complete end-to-end AI system.**
+
+### 🚀 Highlights
+
+- 🎯 **0.91 R²** house price prediction using XGBoost
+- 🔍 Semantic Search using vector embeddings
+- 🤖 RAG-powered property assistant
+- ⚡ FastAPI REST API
+- 🐳 Dockerized deployment
+- 📊 MLflow experiment tracking
+
+**Tech Stack**
+
+`Python` `XGBoost` `FastAPI`
+`RAG` `Docker`
+`MLflow` `FAISS`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel">
+</a>
+</p>
+
+---
+
+## 😊 EmoWise
+
+> **An intelligent emotion recognition platform that combines Deep Learning, NLP, and Computer Vision to understand user emotions and deliver personalized recommendations in real time.**
+
+### 🚀 Highlights
+
+- 😊 Emotion Detection
+- 🧠 Deep Learning models
+- 💬 NLP-powered recommendations
+- 🎯 **90% Accuracy**
+- ⚡ Real-time inference
+
+**Tech Stack**
+
+`Python`
+`TensorFlow`
+`OpenCV`
+`NLP`
+`Deep Learning`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+# ⚙️ Software Engineering
+
+## 💡 L.A.A.R.K.
+
+> **An enterprise asset management platform that combines predictive maintenance, real-time analytics, and full-stack engineering to improve operational efficiency for lighting infrastructure.**
+
+### 🚀 Highlights
+
+- 📈 **91% predictive accuracy**
+- ⚡ Predictive maintenance pipeline
+- 🌦 Weather & Energy Star integration
+- ⚛️ React + TypeScript dashboard
+- 🔄 Full-stack architecture with Supabase
+
+**Tech Stack**
+
+`Python`
+`TensorFlow`
+`React`
+`TypeScript`
+`Supabase`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+# ☁️ Production AI Systems
+
+## 💰 SmartFin AI
+
+> **An AI-powered financial intelligence platform that modernizes lending workflows through risk prediction, automation, customer analytics, and scalable backend services.**
+
+### 🚀 Highlights
+
+- 💳 Loan Risk Prediction
+- 📊 Customer Segmentation
+- 📈 Repayment Forecasting
+- 🌐 Bilingual AI Assistant
+- ⚡ FastAPI backend services
+- 📱 Interactive dashboard
+
+**Tech Stack**
+
+`Python`
+`FastAPI`
+`Streamlit`
+`PostgreSQL`
+`Scikit-learn`
+
+<p>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
 
 ## ⭐ Featured Projects
 
