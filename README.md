@@ -358,7 +358,7 @@ I am actively exploring full-time roles including:
 
 </tr>
 </table>
-```
+
 
 
 
