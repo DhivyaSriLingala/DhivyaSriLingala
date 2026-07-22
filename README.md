@@ -120,12 +120,253 @@ I am actively exploring full-time roles including:
 </table>
 
 
+---
+
+```markdown
+# ⭐ Featured Projects
+
+<p align="center">
+  Click a project below to explore its details.
+</p>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="YOUR_HOUSE_PRICE_IMAGE_URL" width="110" height="110" alt="House Price Intelligence" />
+
+### 🏠 House Price Intelligence
+
+`ML` `RAG` `MLOps`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> An end-to-end production ML platform combining prediction, semantic search, RAG, APIs, Docker, and MLflow.
+
+**Highlights**
+
+- 🎯 Achieved **0.91 R²** using XGBoost
+- 🔍 Built embedding-based semantic search
+- 🤖 Developed a grounded RAG assistant
+- ⚡ Served predictions through FastAPI
+- 🐳 Containerized the application with Docker
+- 📊 Tracked experiments using MLflow
+
+**Tech Stack**
+
+`Python` `XGBoost` `FastAPI` `RAG` `Docker` `MLflow` `FAISS`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+
+</details>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="YOUR_JOB_FIT_IMAGE_URL" width="110" height="110" alt="Job Fit Analysis" />
+
+### 🤖 Job Fit Analysis
+
+`GenAI` `Agents` `RAG`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> An AI-powered resume intelligence platform using Agentic AI and Retrieval-Augmented Generation.
+
+**Highlights**
+
+- 🤖 Implemented a ReAct AI agent
+- 📄 Developed ATS resume analysis
+- 🎯 Added skill-gap detection
+- 🔍 Built semantic retrieval
+- 🧠 Implemented LlamaIndex query engines
+- ⚡ Developed a FastAPI and React application
+
+**Tech Stack**
+
+`Python` `LlamaIndex` `FastAPI` `React` `RAG` `Groq`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+
+</details>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="YOUR_CS_GUIDE_IMAGE_URL" width="110" height="110" alt="Unofficial CS Guide" />
+
+### 📚 Unofficial CS Guide
+
+`GenAI` `ChromaDB` `Education`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> A RAG-based educational assistant that provides grounded answers from curated computer science resources.
+
+**Highlights**
+
+- 📚 Built a document-grounded Q&A assistant
+- 🔍 Added semantic retrieval with ChromaDB
+- 🧠 Generated embeddings with Sentence Transformers
+- 💬 Integrated Llama 3.3
+- 🧪 Created a realistic evaluation dataset
+- 🖥️ Developed an interactive Gradio interface
+
+**Tech Stack**
+
+`Python` `RAG` `ChromaDB` `Sentence Transformers` `Llama 3.3` `Gradio`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+
+</details>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="YOUR_SMARTFIN_IMAGE_URL" width="110" height="110" alt="SmartFin AI" />
+
+### 💰 SmartFin AI
+
+`AI` `FinTech` `Backend`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> An intelligent lending platform combining risk prediction, automation, analytics, and financial workflows.
+
+**Highlights**
+
+- 💳 Developed loan-risk prediction
+- 📊 Added customer segmentation
+- 📈 Built repayment forecasting
+- 🌐 Designed bilingual English and Telugu workflows
+- 🔔 Added automated reminders
+- ⚡ Developed scalable backend services
+
+**Tech Stack**
+
+`Python` `FastAPI` `Streamlit` `PostgreSQL` `Scikit-learn`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+
+</details>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="YOUR_LAARK_IMAGE_URL" width="110" height="110" alt="L.A.A.R.K." />
+
+### 💡 L.A.A.R.K.
+
+`Software` `ML` `Full Stack`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> An enterprise asset-management platform combining predictive maintenance, real-time integrations, and full-stack software engineering.
+
+**Highlights**
+
+- 📈 Achieved **91% predictive accuracy**
+- ⚡ Built predictive-maintenance workflows
+- 🌦️ Integrated weather and energy data
+- 🗺️ Developed an interactive floor-plan interface
+- ⚛️ Built a React and TypeScript dashboard
+- 🔄 Maintained synchronization errors below **1%**
+
+**Tech Stack**
+
+`Python` `TensorFlow` `React` `TypeScript` `Supabase` `FastAPI`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+
+</details>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="YOUR_EMOWISE_IMAGE_URL" width="110" height="110" alt="EmoWise" />
+
+### 😊 EmoWise
+
+`Deep Learning` `NLP` `CV`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> An emotion-recognition and recommendation platform combining NLP, computer vision, and deep learning.
+
+**Highlights**
+
+- 😊 Built emotion-detection workflows
+- 🎯 Achieved **90% accuracy**
+- 📊 Reached **92% precision**
+- 💬 Generated personalized recommendations
+- ⚡ Supported real-time inference
+- 👥 Handled more than **5,000 daily interactions**
+
+**Tech Stack**
+
+`Python` `TensorFlow` `OpenCV` `NLP` `Deep Learning`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+
+</details>
+
+</td>
+
+</tr>
+</table>
+```
+
+
 
 ---
 
 # ⭐ Featured Projects
 
----
+
 
 # 🤖 Generative AI
 
