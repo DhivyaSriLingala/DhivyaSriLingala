@@ -122,7 +122,7 @@ I am actively exploring full-time roles including:
 
 ---
 
-```markdown
+
 # ⭐ Featured Projects
 
 <p align="center">
