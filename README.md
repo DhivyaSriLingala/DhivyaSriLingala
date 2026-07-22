@@ -320,30 +320,14 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 
 
 
-
-<p align="center">
   <img src="https://ghchart.rshah.org/DhivyaSriLingala" alt="GitHub Contributions Chart" />
-</p>
 
 
 
 
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=github-dark&hide_border=true" />
-</p>
 
 
-
-### 🏆 Achievements
-
-</div>
-
----
-- 🎓 **CGPA: 3.98/4.0** (Bachelor's) & **3.85/4.0** (Master's).
-- 🏆 **Microsoft Engage 2022** (2022).
-- 📈 Published research work in adaptive AI learning platforms.
-- 💡 Leading industry-sponsored AI project with real-world deployment.
 
 
 
