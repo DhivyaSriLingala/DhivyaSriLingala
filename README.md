@@ -125,7 +125,7 @@ I am actively exploring full-time roles including:
 
 # ⭐ Featured Projects
 
-<p align="center">
+<p>
   Click a project below to explore its details.
 </p>
 
