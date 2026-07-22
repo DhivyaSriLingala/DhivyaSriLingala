@@ -57,6 +57,69 @@ I am actively exploring full-time roles including:
 | AI/ML Apprentice | Microsoft Engage | Machine Learning, clustering, classification, analytics |
 
 ---
+
+
+## 🚀 What I Build
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### 🤖 Generative AI
+
+- RAG Systems
+- AI Agents
+- Agentic Workflows
+- Semantic Search
+- LLM Evaluation
+- Prompt Engineering
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🧠 Machine Learning
+
+- Predictive Modeling
+- Deep Learning
+- NLP
+- Computer Vision
+- Feature Engineering
+- Model Optimization
+
+</td>
+
+<td width="25%" valign="top">
+
+### ⚙️ Software Engineering
+
+- FastAPI & Flask APIs
+- Backend Systems
+- Microservices
+- REST APIs
+- Full-Stack Applications
+- Distributed Systems
+
+</td>
+
+<td width="25%" valign="top">
+
+### ☁️ MLOps & Cloud
+
+- Docker
+- Kubernetes
+- AWS & Azure
+- MLflow
+- CI/CD
+- Production Deployment
+
+</td>
+
+</tr>
+</table>
+
+---
 # 🚀 What I Build
 
 
