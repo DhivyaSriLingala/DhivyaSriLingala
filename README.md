@@ -157,7 +157,6 @@ I am actively exploring full-time roles including:
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
@@ -188,7 +187,6 @@ I am actively exploring full-time roles including:
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
@@ -227,7 +225,7 @@ I am actively exploring full-time roles including:
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
 
@@ -257,7 +255,7 @@ I am actively exploring full-time roles including:
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
@@ -294,9 +292,6 @@ I am actively exploring full-time roles including:
 
 **Tech:** `Python` `TensorFlow` `React` `TypeScript` `Supabase` `FastAPI`
 
-<br>
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 
 </details>
 
@@ -326,7 +321,7 @@ I am actively exploring full-time roles including:
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
