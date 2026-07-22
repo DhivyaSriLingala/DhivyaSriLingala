@@ -123,42 +123,45 @@ I am actively exploring full-time roles including:
 ---
 
 
+
 # ⭐ Featured Projects
 
-<p>
-  Click a project below to explore its details.
+<p align="center">
+  Explore my work across Generative AI, Machine Learning, Software Engineering, and production AI systems.
 </p>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="YOUR_HOUSE_PRICE_IMAGE_URL" width="110" height="110" alt="House Price Intelligence" />
+<img src="YOUR_HOUSE_PRICE_IMAGE_URL" width="120" height="120" alt="House Price Intelligence System" />
 
-### 🏠 House Price Intelligence
+## 🏠 House Price Intelligence
 
-`ML` `RAG` `MLOps`
+`Machine Learning` `RAG` `MLOps`
 
 <details>
 <summary><b>View Project Details</b></summary>
 
 <br>
 
-> An end-to-end production ML platform combining prediction, semantic search, RAG, APIs, Docker, and MLflow.
+> An end-to-end production ML platform combining price prediction, semantic search, RAG, APIs, Docker, and MLflow.
 
-**Highlights**
+### 🚀 Highlights
 
 - 🎯 Achieved **0.91 R²** using XGBoost
 - 🔍 Built embedding-based semantic search
-- 🤖 Developed a grounded RAG assistant
+- 🤖 Developed a grounded property Q&A system
 - ⚡ Served predictions through FastAPI
-- 🐳 Containerized the application with Docker
+- 🐳 Containerized the platform with Docker
 - 📊 Tracked experiments using MLflow
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`Python` `XGBoost` `FastAPI` `RAG` `Docker` `MLflow` `FAISS`
+`Python` `XGBoost` `FastAPI`  
+`RAG` `Docker` `MLflow` `FAISS`
 
 <br>
 
@@ -169,74 +172,39 @@ I am actively exploring full-time roles including:
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="YOUR_JOB_FIT_IMAGE_URL" width="110" height="110" alt="Job Fit Analysis" />
+<img src="YOUR_JOB_FIT_IMAGE_URL" width="120" height="120" alt="Job Fit Analysis" />
 
-### 🤖 Job Fit Analysis
+## 🤖 Job Fit Analysis
 
-`GenAI` `Agents` `RAG`
+`Generative AI` `Agents` `RAG`
 
 <details>
 <summary><b>View Project Details</b></summary>
 
 <br>
 
-> An AI-powered resume intelligence platform using Agentic AI and Retrieval-Augmented Generation.
+> An AI-powered resume intelligence platform using Agentic AI, semantic retrieval, and Retrieval-Augmented Generation.
 
-**Highlights**
+### 🚀 Highlights
 
 - 🤖 Implemented a ReAct AI agent
 - 📄 Developed ATS resume analysis
 - 🎯 Added skill-gap detection
-- 🔍 Built semantic retrieval
+- 🔍 Built semantic resume-job matching
 - 🧠 Implemented LlamaIndex query engines
-- ⚡ Developed a FastAPI and React application
+- ⚡ Created a FastAPI and React application
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`Python` `LlamaIndex` `FastAPI` `React` `RAG` `Groq`
+`Python` `LlamaIndex` `FastAPI`  
+`React` `RAG` `Groq` `ReAct`
 
 <br>
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
-
-</details>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<img src="YOUR_CS_GUIDE_IMAGE_URL" width="110" height="110" alt="Unofficial CS Guide" />
-
-### 📚 Unofficial CS Guide
-
-`GenAI` `ChromaDB` `Education`
-
-<details>
-<summary><b>View Project Details</b></summary>
-
-<br>
-
-> A RAG-based educational assistant that provides grounded answers from curated computer science resources.
-
-**Highlights**
-
-- 📚 Built a document-grounded Q&A assistant
-- 🔍 Added semantic retrieval with ChromaDB
-- 🧠 Generated embeddings with Sentence Transformers
-- 💬 Integrated Llama 3.3
-- 🧪 Created a realistic evaluation dataset
-- 🖥️ Developed an interactive Gradio interface
-
-**Tech Stack**
-
-`Python` `RAG` `ChromaDB` `Sentence Transformers` `Llama 3.3` `Gradio`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 
 </details>
 
@@ -246,33 +214,34 @@ I am actively exploring full-time roles including:
 
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="YOUR_SMARTFIN_IMAGE_URL" width="110" height="110" alt="SmartFin AI" />
+<img src="YOUR_CS_GUIDE_IMAGE_URL" width="120" height="120" alt="Unofficial CS Guide" />
 
-### 💰 SmartFin AI
+## 📚 Unofficial CS Guide
 
-`AI` `FinTech` `Backend`
+`Generative AI` `ChromaDB` `Education`
 
 <details>
 <summary><b>View Project Details</b></summary>
 
 <br>
 
-> An intelligent lending platform combining risk prediction, automation, analytics, and financial workflows.
+> A RAG-based educational assistant that provides grounded answers from curated computer science learning resources.
 
-**Highlights**
+### 🚀 Highlights
 
-- 💳 Developed loan-risk prediction
-- 📊 Added customer segmentation
-- 📈 Built repayment forecasting
-- 🌐 Designed bilingual English and Telugu workflows
-- 🔔 Added automated reminders
-- ⚡ Developed scalable backend services
+- 📖 Built a document-grounded Q&A assistant
+- 🔍 Added semantic retrieval with ChromaDB
+- 🧠 Generated embeddings with Sentence Transformers
+- 💬 Integrated Llama 3.3
+- 🧪 Created a realistic evaluation dataset
+- 🖥️ Developed an interactive Gradio interface
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`Python` `FastAPI` `Streamlit` `PostgreSQL` `Scikit-learn`
+`Python` `RAG` `ChromaDB`  
+`Sentence Transformers` `Llama 3.3` `Gradio`
 
 <br>
 
@@ -283,13 +252,55 @@ I am actively exploring full-time roles including:
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="YOUR_LAARK_IMAGE_URL" width="110" height="110" alt="L.A.A.R.K." />
+<img src="YOUR_SMARTFIN_IMAGE_URL" width="120" height="120" alt="SmartFin AI" />
 
-### 💡 L.A.A.R.K.
+## 💰 SmartFin AI
 
-`Software` `ML` `Full Stack`
+`FinTech` `Machine Learning` `Backend`
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+<br>
+
+> An intelligent lending platform combining risk prediction, customer analytics, automation, and digital financial workflows.
+
+### 🚀 Highlights
+
+- 💳 Developed loan-risk prediction
+- 📊 Added customer segmentation
+- 📈 Built repayment forecasting
+- 🌐 Designed bilingual English and Telugu workflows
+- 🔔 Added automated payment reminders
+- ⚡ Developed scalable backend services
+
+### 🛠 Tech Stack
+
+`Python` `FastAPI` `Streamlit`  
+`PostgreSQL` `Scikit-learn`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+
+</details>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img src="YOUR_LAARK_IMAGE_URL" width="120" height="120" alt="L.A.A.R.K." />
+
+## 💡 L.A.A.R.K.
+
+`Software Engineering` `ML` `Full Stack`
 
 <details>
 <summary><b>View Project Details</b></summary>
@@ -298,43 +309,45 @@ I am actively exploring full-time roles including:
 
 > An enterprise asset-management platform combining predictive maintenance, real-time integrations, and full-stack software engineering.
 
-**Highlights**
+### 🚀 Highlights
 
 - 📈 Achieved **91% predictive accuracy**
 - ⚡ Built predictive-maintenance workflows
 - 🌦️ Integrated weather and energy data
-- 🗺️ Developed an interactive floor-plan interface
+- 🗺️ Developed an interactive floor-plan viewer
 - ⚛️ Built a React and TypeScript dashboard
 - 🔄 Maintained synchronization errors below **1%**
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`Python` `TensorFlow` `React` `TypeScript` `Supabase` `FastAPI`
+`Python` `TensorFlow` `React`  
+`TypeScript` `Supabase` `FastAPI`
 
 <br>
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img src="YOUR_EMOWISE_IMAGE_URL" width="110" height="110" alt="EmoWise" />
+<img src="YOUR_EMOWISE_IMAGE_URL" width="120" height="120" alt="EmoWise" />
 
-### 😊 EmoWise
+## 😊 EmoWise
 
-`Deep Learning` `NLP` `CV`
+`Deep Learning` `NLP` `Computer Vision`
 
 <details>
 <summary><b>View Project Details</b></summary>
 
 <br>
 
-> An emotion-recognition and recommendation platform combining NLP, computer vision, and deep learning.
+> An emotion-recognition and personalized recommendation system combining NLP, computer vision, and deep learning.
 
-**Highlights**
+### 🚀 Highlights
 
 - 😊 Built emotion-detection workflows
 - 🎯 Achieved **90% accuracy**
@@ -343,9 +356,10 @@ I am actively exploring full-time roles including:
 - ⚡ Supported real-time inference
 - 👥 Handled more than **5,000 daily interactions**
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`Python` `TensorFlow` `OpenCV` `NLP` `Deep Learning`
+`Python` `TensorFlow` `OpenCV`  
+`NLP` `Deep Learning`
 
 <br>
 
@@ -357,7 +371,9 @@ I am actively exploring full-time roles including:
 </td>
 
 </tr>
+
 </table>
+
 
 
 
