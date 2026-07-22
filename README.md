@@ -335,7 +335,7 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 
 ---
 
-### 📫 Connect With Me
+## 📫 Let's Connect
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-sri-lingala/)
@@ -344,5 +344,8 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dhivya.sri.lingala_/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhivya-sri-lingala.vercel.app/)
 
+<br>
+
+### Building intelligent systems from data to deployment 🚀
 
 </div>
