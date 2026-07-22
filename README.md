@@ -311,21 +311,21 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 ![](https://nirzak-streak-stats.vercel.app/?user=DhivyaSriLingala&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaSriLingala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSriLingala&bg_color=0D1117&color=FF6B35&line=004E89&point=FF6B35&area=true&hide_border=true" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaSriLingala&bg_color=0D1117&color=FF6B35&line=004E89&point=FF6B35&area=true&hide_border=true" width="100%"/>
 
 
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaSriLingala&theme=github_dark" width=60% />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaSriLingala&theme=github_dark" width="100%" />
 
 
 
 
-  <img src="https://ghchart.rshah.org/DhivyaSriLingala" alt="GitHub Contributions Chart" />
+  <img src="https://ghchart.rshah.org/DhivyaSriLingala" alt="GitHub Contributions Chart" width="100%"/>
 
 
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaSriLingala&theme=github-dark&hide_border=true" width="100%" />
 
 
 
