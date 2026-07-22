@@ -89,39 +89,8 @@ I am actively exploring full-time roles including:
 - Hyperparameter optimization
 - Experiment tracking
 
-</td>
-<td width="50%" valign="top">
-  
-### ⚙️ Software Engineering
-
-- FastAPI and Flask services
-- REST APIs and microservices
-- Event-driven integrations
-- Real-time backend systems
-- Full-stack applications
-- SQL and relational databases
-- Distributed systems
-- Automated testing
-
-  </td>
-<td width="50%" valign="top">
-
-### ☁️ MLOps and Cloud
-
-- Dockerized deployments
-- Kubernetes orchestration
-- AWS and Azure
-- CI/CD pipelines
-- MLflow experiment tracking
-- Model serving
-- Production monitoring
-- Cloud-native applications
 
 
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
