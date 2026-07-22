@@ -14,7 +14,7 @@
 
 I'm an **AI Engineer** focused on building **production-grade AI systems** that combine **Machine Learning, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), FastAPI, and cloud deployment**.
 
-My work spans the complete AI lifecycle—from data pipelines and model development to evaluation, APIs, deployment, monitoring, and production engineering.
+My work spans the complete AI lifecycle from data pipelines and model development to evaluation, APIs, deployment, monitoring, and production engineering.
 
 ### 🎯 Target Roles
 
