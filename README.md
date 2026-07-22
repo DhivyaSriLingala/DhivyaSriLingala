@@ -233,6 +233,19 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 
 ## 🛠️ Technical Skills
 
+
+</div>
+
+---
+
+
+
+<table>
+<tr>
+<td>
+
+<!-- COLUMN 1 -->
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -278,6 +291,17 @@ A multimodal emotional-intelligence and recommendation system using NLP and Comp
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=flat-square)
+
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
 
 ---
 
