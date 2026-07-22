@@ -122,258 +122,219 @@ I am actively exploring full-time roles including:
 
 ---
 
-
-
 # ⭐ Featured Projects
 
 <p align="center">
-  Explore my work across Generative AI, Machine Learning, Software Engineering, and production AI systems.
+  Selected work across Generative AI, Machine Learning, Software Engineering, and Production AI.
 </p>
 
-<table width="100%">
+<br>
 
+<table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-<img src="YOUR_HOUSE_PRICE_IMAGE_URL" width="120" height="120" alt="House Price Intelligence System" />
+<td width="50%" valign="top">
 
 ## 🏠 House Price Intelligence
+
+> End-to-end ML platform for prediction, semantic search, RAG, APIs, and MLOps.
 
 `Machine Learning` `RAG` `MLOps`
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project</b></summary>
 
 <br>
 
-> An end-to-end production ML platform combining price prediction, semantic search, RAG, APIs, Docker, and MLflow.
+- Achieved **0.91 R²** with XGBoost
+- Built semantic search using embeddings
+- Added grounded RAG-based property Q&A
+- Served predictions through FastAPI
+- Containerized with Docker
+- Tracked experiments with MLflow
 
-### 🚀 Highlights
-
-- 🎯 Achieved **0.91 R²** using XGBoost
-- 🔍 Built embedding-based semantic search
-- 🤖 Developed a grounded property Q&A system
-- ⚡ Served predictions through FastAPI
-- 🐳 Containerized the platform with Docker
-- 📊 Tracked experiments using MLflow
-
-### 🛠 Tech Stack
-
-`Python` `XGBoost` `FastAPI`  
-`RAG` `Docker` `MLflow` `FAISS`
+**Tech:** `Python` `XGBoost` `FastAPI` `RAG` `Docker` `MLflow`
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
 
 </td>
 
-<td width="50%" align="center" valign="top">
-
-<img src="YOUR_JOB_FIT_IMAGE_URL" width="120" height="120" alt="Job Fit Analysis" />
+<td width="50%" valign="top">
 
 ## 🤖 Job Fit Analysis
+
+> AI-powered resume intelligence platform using Agentic AI, RAG, and semantic matching.
 
 `Generative AI` `Agents` `RAG`
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project</b></summary>
 
 <br>
 
-> An AI-powered resume intelligence platform using Agentic AI, semantic retrieval, and Retrieval-Augmented Generation.
+- Built a ReAct AI agent
+- Added ATS scoring and skill-gap analysis
+- Implemented semantic resume-job matching
+- Used LlamaIndex router query engines
+- Added multimodal retrieval
+- Deployed with FastAPI, React, Render, and Vercel
 
-### 🚀 Highlights
-
-- 🤖 Implemented a ReAct AI agent
-- 📄 Developed ATS resume analysis
-- 🎯 Added skill-gap detection
-- 🔍 Built semantic resume-job matching
-- 🧠 Implemented LlamaIndex query engines
-- ⚡ Created a FastAPI and React application
-
-### 🛠 Tech Stack
-
-`Python` `LlamaIndex` `FastAPI`  
-`React` `RAG` `Groq` `ReAct`
+**Tech:** `Python` `LlamaIndex` `FastAPI` `React` `RAG` `Groq`
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
 
 </td>
 
 </tr>
+</table>
 
+<br>
+
+<table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-<img src="YOUR_CS_GUIDE_IMAGE_URL" width="120" height="120" alt="Unofficial CS Guide" />
+<td width="50%" valign="top">
 
 ## 📚 Unofficial CS Guide
+
+> RAG-based learning assistant for grounded answers from curated computer science resources.
 
 `Generative AI` `ChromaDB` `Education`
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project</b></summary>
 
 <br>
 
-> A RAG-based educational assistant that provides grounded answers from curated computer science learning resources.
+- Built document-grounded Q&A
+- Added semantic retrieval with ChromaDB
+- Generated embeddings with Sentence Transformers
+- Integrated Llama 3.3
+- Created an evaluation dataset
+- Built an interactive Gradio interface
 
-### 🚀 Highlights
-
-- 📖 Built a document-grounded Q&A assistant
-- 🔍 Added semantic retrieval with ChromaDB
-- 🧠 Generated embeddings with Sentence Transformers
-- 💬 Integrated Llama 3.3
-- 🧪 Created a realistic evaluation dataset
-- 🖥️ Developed an interactive Gradio interface
-
-### 🛠 Tech Stack
-
-`Python` `RAG` `ChromaDB`  
-`Sentence Transformers` `Llama 3.3` `Gradio`
+**Tech:** `Python` `RAG` `ChromaDB` `Sentence Transformers` `Llama 3.3` `Gradio`
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 
 </details>
 
 </td>
 
-<td width="50%" align="center" valign="top">
-
-<img src="YOUR_SMARTFIN_IMAGE_URL" width="120" height="120" alt="SmartFin AI" />
+<td width="50%" valign="top">
 
 ## 💰 SmartFin AI
+
+> AI-powered lending platform for risk prediction, customer analytics, and workflow automation.
 
 `FinTech` `Machine Learning` `Backend`
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project</b></summary>
 
 <br>
 
-> An intelligent lending platform combining risk prediction, customer analytics, automation, and digital financial workflows.
+- Built loan-risk prediction
+- Added customer segmentation
+- Developed repayment forecasting
+- Added bilingual English and Telugu workflows
+- Designed financial dashboards
+- Built scalable backend services
 
-### 🚀 Highlights
-
-- 💳 Developed loan-risk prediction
-- 📊 Added customer segmentation
-- 📈 Built repayment forecasting
-- 🌐 Designed bilingual English and Telugu workflows
-- 🔔 Added automated payment reminders
-- ⚡ Developed scalable backend services
-
-### 🛠 Tech Stack
-
-`Python` `FastAPI` `Streamlit`  
-`PostgreSQL` `Scikit-learn`
+**Tech:** `Python` `FastAPI` `Streamlit` `PostgreSQL` `Scikit-learn`
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
 
 </td>
 
 </tr>
+</table>
 
+<br>
+
+<table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-<img src="YOUR_LAARK_IMAGE_URL" width="120" height="120" alt="L.A.A.R.K." />
+<td width="50%" valign="top">
 
 ## 💡 L.A.A.R.K.
 
-`Software Engineering` `ML` `Full Stack`
+> Full-stack predictive maintenance platform for enterprise lighting asset management.
+
+`Software Engineering` `Machine Learning` `Full Stack`
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project</b></summary>
 
 <br>
 
-> An enterprise asset-management platform combining predictive maintenance, real-time integrations, and full-stack software engineering.
+- Achieved **91% predictive accuracy**
+- Built predictive-maintenance workflows
+- Integrated weather and energy data
+- Developed an interactive floor-plan viewer
+- Built React and TypeScript dashboards
+- Maintained synchronization errors below **1%**
 
-### 🚀 Highlights
-
-- 📈 Achieved **91% predictive accuracy**
-- ⚡ Built predictive-maintenance workflows
-- 🌦️ Integrated weather and energy data
-- 🗺️ Developed an interactive floor-plan viewer
-- ⚛️ Built a React and TypeScript dashboard
-- 🔄 Maintained synchronization errors below **1%**
-
-### 🛠 Tech Stack
-
-`Python` `TensorFlow` `React`  
-`TypeScript` `Supabase` `FastAPI`
+**Tech:** `Python` `TensorFlow` `React` `TypeScript` `Supabase` `FastAPI`
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
 
 </details>
 
 </td>
 
-<td width="50%" align="center" valign="top">
-
-<img src="YOUR_EMOWISE_IMAGE_URL" width="120" height="120" alt="EmoWise" />
+<td width="50%" valign="top">
 
 ## 😊 EmoWise
+
+> Emotion-recognition and recommendation system using deep learning, NLP, and computer vision.
 
 `Deep Learning` `NLP` `Computer Vision`
 
 <details>
-<summary><b>View Project Details</b></summary>
+<summary><b>Explore Project</b></summary>
 
 <br>
 
-> An emotion-recognition and personalized recommendation system combining NLP, computer vision, and deep learning.
+- Achieved **90% accuracy**
+- Reached **92% precision**
+- Built emotion-detection workflows
+- Generated personalized recommendations
+- Supported real-time inference
+- Handled **5,000+ daily interactions**
 
-### 🚀 Highlights
-
-- 😊 Built emotion-detection workflows
-- 🎯 Achieved **90% accuracy**
-- 📊 Reached **92% precision**
-- 💬 Generated personalized recommendations
-- ⚡ Supported real-time inference
-- 👥 Handled more than **5,000 daily interactions**
-
-### 🛠 Tech Stack
-
-`Python` `TensorFlow` `OpenCV`  
-`NLP` `Deep Learning`
+**Tech:** `Python` `TensorFlow` `OpenCV` `NLP` `Deep Learning`
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](YOUR_REPOSITORY_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 
 </details>
 
 </td>
 
 </tr>
-
 </table>
-
 
 
 
