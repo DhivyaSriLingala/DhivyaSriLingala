@@ -9,7 +9,6 @@ Building production-ready AI systems, intelligent applications, scalable APIs, a
 <br>
 </div>
 
-
 ---
 
 ## 👋 About Me
